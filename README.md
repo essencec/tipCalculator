@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] Implement a slider to change the default tip percentage
+- [X] Make a tip splitting feature
 
 ## Video Walkthrough 
 
